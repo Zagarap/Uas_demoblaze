@@ -72,7 +72,7 @@ Pastikan kamu sudah menginstal:
 Untuk menjalankan semua skenario tes secara otomatis:
 ```bash
 mvn clean test
-
+```
 ## 📊 Test Scenarios Covered
 
 | Class Name | Scenario Description | Type | Status |
