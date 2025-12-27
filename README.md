@@ -44,6 +44,8 @@ src
                 ├── CheckoutFlowTest.java      # Negative Case Validation
                 ├── CompletePurchaseTest.java  # Positive E2E Flow
                 └── DeleteFromCart.java        # Cart Functionality
+
+```
 ## 🚀 How to Run (Cara Menjalankan)
 
 ### Prerequisites
